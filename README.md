@@ -2,6 +2,12 @@
 
 Starter for the **"Build Razorpay's webhook delivery engine"** project at DayZer0.
 
+## Prerequisites
+
+- Go 1.22+
+- Docker & Docker Compose (for Postgres)
+- `psql` CLI (to apply schema)
+
 ## Get started
 
 ```bash
